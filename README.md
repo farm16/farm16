@@ -1,3 +1,3 @@
 # Hello there 👋🏽 
 
-👉🏼 [farm16](https://www.farm16.dev/)
+👉🏼 [farm16.dev](https://www.farm16.dev/)
